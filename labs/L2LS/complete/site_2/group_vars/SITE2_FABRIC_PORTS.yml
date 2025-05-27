@@ -9,9 +9,9 @@ port_profiles:
     mode: "access"
     vlans: "40"
     spanning_tree_portfast: edge
-  - profile: PP-VLAN30
+  - profile: PP-VLAN50
     mode: "access"
-    vlans: "30"
+    vlans: "50"
     spanning_tree_portfast: edge
 
 ###########################################################
